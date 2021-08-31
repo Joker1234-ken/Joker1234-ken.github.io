@@ -2,7 +2,7 @@ module.exports = {
   title: 'One Piece',
   // theme: 'reco', // 主题
   base: '/',
-  dest: 'public',
+  // dest: 'public',
   head: [
     [
       'meta',
